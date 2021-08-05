@@ -1,8 +1,10 @@
 # Hello, I'm Danila 👋
 
-![C++](https://img.shields.io/badge/Cpp-Expert-orange)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![C/C++](https://img.shields.io/badge/C/C++-Intermediate-orange)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![C#](https://img.shields.io/badge/C#-Beginner-green)
+![Pascal](https://img.shields.io/badge/Pascal-Advanced-blue)
 
 - 🔭 Currently pursuing Bachelor of Technology in Computer Science at HSE.
 - 🌱 I’m currently learning **ML** at Stepik and Coursera
