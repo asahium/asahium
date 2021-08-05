@@ -20,7 +20,6 @@
 - StackOverflow: [stackoverflow.com/asahium][stackoverflow]
 - GitHub: [github.com/asahium][github]
 - LinkedIn: coming soon
-- E-mail: psiwyrm@tuta.io
 - reddit: [reddit.com/slaavit][reddit]
 
 ### 📚 Looking for my Resume? E-Mail me!
