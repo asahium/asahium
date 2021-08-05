@@ -10,6 +10,7 @@
 - ⚙️ Mastering: `.py`, `.cpp`,`.config`,`.mk`,`.tex`
 - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Cyber Security**, **Linux**, **Godot** and **Unity 3D** communities
+- 😇  Looking for **6 Months** Internship **( May to November )** / **2-3 Months Summer** Internship!
 
 ### 📬 Get in Touch
 
