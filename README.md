@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 
-- 🔭 Bachelor's degree in **Computer Science** at HSE
+- 🔭 Currently pursuing Bachelor of Technology in Computer Science at HSE.
 - 🌱 I’m currently learning **ML** at Stepik and Coursera
 - 🌱 I’m currently learning **Security Analyst** and **System administration**
 - ⚙️ Mastering: `.py`, `.cpp`,`.config`,`.mk`,`.tex`
