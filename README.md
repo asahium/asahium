@@ -21,6 +21,7 @@
 - GitHub: [github.com/asahium][github]
 - LinkedIn: coming soon
 - reddit: [reddit.com/slaavit][reddit]
+- E-mail: psiwyrm@tuta.io
 
 ### 📚 Looking for my Resume? E-Mail me!
 
