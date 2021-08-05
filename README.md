@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 
-#Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
-
 - 🔭 Bachelor's degree in **Computer Science** at HSE
 - 🌱 I’m currently learning **ML** at Stepik and Coursera
 - 🌱 I’m currently learning **Security Analyst** and **System administration**
