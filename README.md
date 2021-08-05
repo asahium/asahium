@@ -1,9 +1,8 @@
-# Hello, I'm Federico Dondi 👋
+# Hello, I'm Danila 👋
 
 ![C++](https://img.shields.io/badge/Cpp-Expert-orange)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 
 #Computer Science alumnus at [University of Bologna](https://www.unibo.it/en). Cyber Security enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Bologna, Italy](https://g.page/Due-Torri-Bologna?share) 🇮🇹
 
