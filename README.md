@@ -22,6 +22,6 @@
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![asahium's github stats](https://github-readme-stats.vercel.app/api?username=asahium&show_icons=true&hide_border=true)
-
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="250" height="220"/>
 [stackoverflow]: https://stackoverflow.com/users/16598895/asahium
 [github]: https://github.com/asahium
