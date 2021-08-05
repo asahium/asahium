@@ -3,7 +3,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-orange)
 ![Python](https://img.shields.io/badge/Python-Advanced-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![C#](https://img.shields.io/badge/C-Beginner-green)
+![C#](https://img.shields.io/badge/CSharp-Beginner-green)
 ![Pascal](https://img.shields.io/badge/Pascal-Advanced-blue)
 
 - 🔭 Currently pursuing Bachelor of Technology in Computer Science at HSE.
