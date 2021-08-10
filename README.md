@@ -25,8 +25,6 @@
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![asahium's github stats](https://github-readme-stats.vercel.app/api?username=asahium&show_icons=true&hide_border=true)
-
 [stackoverflow]: https://stackoverflow.com/users/16598895/asahium
 [github]: https://github.com/asahium
 [reddit]: https://www.reddit.com/user/slaavit
