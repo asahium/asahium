@@ -19,7 +19,7 @@
 
 - StackOverflow: [stackoverflow.com/asahium][stackoverflow]
 - GitHub: [github.com/asahium][github]
-- LinkedIn: coming soon
+- LinkedIn: [linkedin/asahium][linkedin]
 - reddit: [reddit.com/slaavit][reddit]
 - E-mail: psiwyrm@tuta.io
 
@@ -28,3 +28,4 @@
 [stackoverflow]: https://stackoverflow.com/users/16598895/asahium
 [github]: https://github.com/asahium
 [reddit]: https://www.reddit.com/user/slaavit
+[linkedin]: https://www.linkedin.com/in/danila-biktimirov-ab25ab223/
