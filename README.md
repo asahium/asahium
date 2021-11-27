@@ -17,9 +17,6 @@
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/asahium][stackoverflow]
-- GitHub: [github.com/asahium][github]
-- LinkedIn: [linkedin/asahium][linkedin]
 - reddit: [reddit.com/slaavit][reddit]
 - E-mail: psiwyrm@tuta.io
 
