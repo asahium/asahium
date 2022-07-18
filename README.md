@@ -3,7 +3,6 @@
 ![C/C++](https://img.shields.io/badge/C/C++-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Advanced-orange)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-yellow)
-![C#](https://img.shields.io/badge/CSharp-Beginner-green)
 ![Pascal](https://img.shields.io/badge/Pascal-Advanced-orange)
 ![Assembler](https://img.shields.io/badge/Assembler-Beginner-green)
 
