@@ -5,7 +5,7 @@
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go |
+| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskel |
 | **Frameworks/Platforms** | PyTorch, Linux | Git, Tensorflow | Docker |
 | **I can't club them into one** | Speech Processing(AI), Computer Vision(AI) | Natural Language(AI) | Parallel Computing, Internet of Things |
 | **Languages(human)** | Russian  | English | German, Swedish  |
