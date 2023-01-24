@@ -8,4 +8,4 @@
 | **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskell |
 | **Frameworks/Platforms** | PyTorch, Linux | Git, Tensorflow | Docker |
 | **Languages(human)** | Russian  | English | German, Swedish  |
-| **Other interests** | Bioinformatics | Digital Privacy | Neuroscience |
+| **Other interests** | Digital Privacy | Bioinformatics | Neuroscience |
