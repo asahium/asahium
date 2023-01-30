@@ -5,7 +5,7 @@
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskell |
+| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskell, Coq |
 | **Frameworks/Platforms** | PyTorch, Linux | Git, Tensorflow | Docker |
 | **Languages(human)** | Russian  | English | German, Swedish  |
 | **Other interests** | Digital Privacy | Bioinformatics | Neuroscience |
