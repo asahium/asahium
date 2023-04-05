@@ -6,6 +6,6 @@
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskell, Coq |
-| **Frameworks** | PyTorch, Sklearn | Tensorflow | Keras |
+| **Frameworks** | PyTorch, Lightning, Catboost | XGBoost, Sklearn | Keras, Tensorflow |
 | **Languages(human)** | Russian  | English | German, Swedish  |
 | **Other interests** | Bioinformatics | Digital Privacy | Neuroscience |
