@@ -5,7 +5,7 @@
 ## Specifications
 | *Name \ Familiarity* | High | Medium | Low |
 | --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Go, Haskell, Coq |
+| **Languages(programming)** | Python | SQL, C, C++ | Assembler, Haskell, Coq |
 | **Frameworks** | PyTorch, Catboost | XGBoost, Sklearn | Keras, Tensorflow |
 | **Languages(human)** | Russian  | English | German, Swedish  |
 | **Other interests** | Bioinformatics | Digital Privacy | Neuroscience |
