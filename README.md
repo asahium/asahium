@@ -8,4 +8,4 @@
 | **Languages(programming)** | Python | SQL, C, C++ | Assembler, Haskell, Coq |
 | **Frameworks** | PyTorch, Catboost | XGBoost, Sklearn | Keras, Tensorflow |
 | **Languages(human)** | Russian  | English | German, Swedish  |
-| **Other interests** | Bioinformatics | Digital Privacy | Neuroscience |
+| **Other interests** | GameDev | Digital Privacy | Bioinformatics |
