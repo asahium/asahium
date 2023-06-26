@@ -1,5 +1,5 @@
 ## Abstract
-- I’m currently learning Deep Learning and Theoretical informatics.
+- I’m currently learning Deep Learning, Theoretical informatics and GameDev.
 - I enjoy playing video games and reading manga.
 
 ## Specifications
@@ -8,4 +8,4 @@
 | **Languages(programming)** | Python | SQL, C, C++ | Assembler, Haskell, Coq |
 | **Frameworks** | PyTorch, Catboost | XGBoost, Sklearn | Keras, Tensorflow |
 | **Languages(human)** | Russian  | English | German, Swedish  |
-| **Other interests** | GameDev | Digital Privacy | Bioinformatics |
+| **Other interests** | Sleep | Digital Privacy | Bioinformatics |
